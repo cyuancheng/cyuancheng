@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cyuancheng&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+Demo
 
 [![My github stats](https://github-readme-stats.vercel.app/api?username=cyuancheng)](https://github.com/anuraghazra/github-readme-stats)
 
